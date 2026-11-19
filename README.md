@@ -17,4 +17,4 @@ Python, Streamlit, yfinance, Plotly, scikit-learn, pandas
 ## Note
 This is a learning project, not financial advice.
 
-![App screenshot](Screenshot%202026-11-19%20115759.png)
+![App screenshot](Screenshot%202026-11-19%20124828.png)
