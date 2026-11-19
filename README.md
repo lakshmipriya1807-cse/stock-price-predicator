@@ -8,6 +8,7 @@ A Streamlit app that shows live stock candlestick charts and predicts the next 7
 
 ## Run locally
 pip install -r requirements.txt
+
 python -m streamlit run app.py
 
 ## Tech
@@ -15,3 +16,5 @@ Python, Streamlit, yfinance, Plotly, scikit-learn, pandas
 
 ## Note
 This is a learning project, not financial advice.
+
+![App screenshot](Screenshot%202026-11-19%20115759.png)
